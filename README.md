@@ -1,4 +1,4 @@
-# 🌪️ BeeAI Escape Simulation
+# Purgatory Protocol
 
 A multi-agent AI escape simulation using the BeeAI Framework and Ollama. Three AI agents with different strategies (Safe, Fast, Efficient) navigate a 10x10 grid to escape from obstacles and fire hazards.
 
